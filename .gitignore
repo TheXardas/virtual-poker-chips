@@ -1,1 +1,4 @@
 .idea
+web/js/*
+!web/js/jquery.mobile/
+!web/js/.placeholder
